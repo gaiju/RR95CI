@@ -1,2 +1,2 @@
 # RR95CI
-relative risk and 95%CI (SAS
+relative risk and 95%CI (SAS)
